@@ -8,7 +8,7 @@ showtext_auto()
 
 sticker(
   "man/figures/waiter.png",
-  package = "blendR",
+  package = "survr",
   p_size = 20,
   s_x = 1.1,
   s_y = 0.8,
