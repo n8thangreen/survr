@@ -1,5 +1,5 @@
 
-# survr
+# survr: Survival analysis tools <img src="man/figures/hexbadge.png" align="right" height="145" />
 
 <!-- badges: start -->
 <!-- badges: end -->
